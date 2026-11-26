@@ -25,6 +25,7 @@ Estudante de **Engenharia de Software** na **UniSATC**, em Criciúma (SC), com f
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="28" alt="Azure DevOps" title="Azure DevOps" />
 </p>
 
 ## Atividade
