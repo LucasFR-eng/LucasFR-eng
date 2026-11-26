@@ -20,7 +20,7 @@ Estudante de **Engenharia de Software** na **UniSATC**, em Criciúma (SC), com f
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,postgres,git,github,vscode,visualstudio&perline=8" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,postgres,git,github,postman&perline=7" alt="Tecnologias" />
 </p>
 
 <p align="center">
